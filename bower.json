@@ -1,0 +1,9 @@
+{
+  "name": "polyRemote",
+  "version": "0.0.0",
+  "dependencies": {
+    "core-elements": "Polymer/core-elements",
+    "paper-elements": "Polymer/paper-elements",
+    "polymer": "Polymer/polymer"
+  }
+}

@@ -1,0 +1,60 @@
+<!--script src="../deps/webcomponentsjs/webcomponents.js"></script-->
+
+<link href="../deps/core-ajax/core-ajax.html" rel="import">
+
+<polymer-element name="albums-grid">
+  <template>
+    <style>
+
+      .chip {
+        display: inline-block;
+        position: relative;
+        border-radius: 3px;
+        margin: 4px;
+        overflow: hidden;
+        text-align: start;
+        background-color: #fff;
+        box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16);
+        color:black;
+      }
+
+      .chip-top {
+        width: 160px;
+        height: 160px;
+      }
+
+      .chip-bottom {
+        padding: 8px;
+        line-height: 1.5;
+      }
+
+      .chip-album-title {
+        font-weight: bold;
+      }
+#container {
+overflow:scroll;
+height:400px;
+}
+    </style>
+    <core-ajax auto url="http://localhost:4242/albums" handleAs="json" response="{{albums}}" on-core-response="{{handleResponse}}"></core-ajax>
+   <div id="container" flex horizontal wrap around-justified layout hero-p>
+
+    <template repeat="{{album in albums}}">
+         <div class="chip" hero-id="{{album.artist}}-{{item.album}}" hero?="{{selectedAlbum === item }}">
+              <div class="chip-top" style="background-image:url({{album.albumArt}};)" hero-id="{{item.artist}}-{{item.album}}-art" hero?="{{selectedAlbum === item}}"></div>
+              <div class="chip-bottom">
+                <div class="chip-album-title">{{album.title}}</div>
+                <div class="chip-artist">{{album.artist}}</div>
+              </div>
+            </div>
+    </template>
+</div>
+  </template>
+  <script>
+    Polymer({
+      ready: function() {
+        //...
+      }
+    });
+  </script>
+</polymer-element>

@@ -1,60 +1,128 @@
 <!--script src="../deps/webcomponentsjs/webcomponents.js"></script-->
 
 <link href="../deps/core-ajax/core-ajax.html" rel="import">
+ <link rel="import" href="../deps/core-list/core-list.html">
 
-<polymer-element name="albums-grid">
+<polymer-element name="albums-grid" attributes="album">
   <template>
     <style>
+.card {
+display: inline-block;
+margin: 5px;
+position: relative;
+text-align: left;
+vertical-align: top;
+white-space: normal;
+-webkit-backface-visibility: hidden;
+}
+.card.square-cover {
+height: 168px;
+width: 126px;
+}
 
       .chip {
-        display: inline-block;
-        position: relative;
-        border-radius: 3px;
-        margin: 4px;
-        overflow: hidden;
-        text-align: start;
+      //  display: inline-block;
+      //  position: relative;
+      //  border-radius: 3px;
+      //  margin: 4px;
+      //  overflow: hidden;
+      //  text-align: start;
         background-color: #fff;
-        box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16);
+      //  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16);
         color:black;
+		width: 126px;
+		height:168px;
       }
 
       .chip-top {
-        width: 160px;
-        height: 160px;
+        width: 126px;
+        height: 126px;
       }
 
       .chip-bottom {
         padding: 8px;
-        line-height: 1.5;
+		width: 126px;
+        height: 43px;
+    
       }
 
       .chip-album-title {
-        font-weight: bold;
+   color: #333;
+display: block;
+font-size: 16px;
+line-height: 18px;
+max-height: 36px;
+min-height: 18px;
+overflow: hidden;
+text-decoration: none;
+position: relative;
+white-space: nowrap;
+margin-right:15px;
+		
       }
-#container {
-overflow:scroll;
-height:400px;
+	  .chip-artist {
+color: #aaa;
+display: block;
+font-size: 13px;
+line-height: 16px;
+margin: 1px 0;
+//max-width: 132px;
+overflow: hidden;
+white-space: nowrap;
+margin-right:15px;
+}
+	  
+	  	   #list {
+      display: block;
+      height: 100%;
+      margin: 0 auto;
+	 
+    }
+
+	.paragraph-end {
+background-image: -webkit-gradient(linear,left top,right top,color-stop(0%,rgba(255,255,255,0)),color-stop(100%,rgba(255,255,255,0.7)));
+background-image: -webkit-gradient(linear,left top,right top,color-stop(0%,rgba(255,255,255,0)),color-stop(100%,rgba(255,255,255,0.7)));
+background-image: -webkit-linear-gradient(left,rgba(255,255,255,0),rgba(255,255,255,0.7));
+filter: progid:DXImageTransform.Microsoft.gradient(GradientType=1,StartColorStr='#00ffffff',EndColorStr='#ffffff');
+bottom: 0;
+height: 25px;
+max-height: 100%;
+position: absolute;
+right: 0;
+width: 60px;
 }
     </style>
-    <core-ajax auto url="http://localhost:4242/albums" handleAs="json" response="{{albums}}" on-core-response="{{handleResponse}}"></core-ajax>
-   <div id="container" flex horizontal wrap around-justified layout hero-p>
+    <core-ajax auto url="http://localhost:8080/albums.json" handleAs="json" response="{{albums}}" on-core-response="{{handleResponse}}"></core-ajax>
+   <!--div id="container" flex horizontal wrap around-justified layout hero-p-->
+ 
+ <core-list id="list" data="{{albums}}" grid width="136" on-core-activate="{{selected}}"
+		height="210" 
+    >
 
-    <template repeat="{{album in albums}}">
-         <div class="chip" hero-id="{{album.artist}}-{{item.album}}" hero?="{{selectedAlbum === item }}">
-              <div class="chip-top" style="background-image:url({{album.albumArt}};)" hero-id="{{item.artist}}-{{item.album}}-art" hero?="{{selectedAlbum === item}}"></div>
+    <template >
+         <div class="square-cover" >
+		 <div class="card chip" hero-id="{{model.artist}}-{{model.album}}" hero?="{{selectedAlbum === model }}">
+              <div class="chip-top" style="background-image:url({{model.albumArt}})" hero-id="{{model.artist}}-{{model.album}}-art" hero?="{{selectedAlbum === model}}"></div>
               <div class="chip-bottom">
-                <div class="chip-album-title">{{album.title}}</div>
-                <div class="chip-artist">{{album.artist}}</div>
+                <div class="chip-album-title">{{model.title}}<span class="paragraph-end"></span></div>
+                <div class="chip-artist">{{model.artist}}<span class="paragraph-end"></div>
               </div>
             </div>
+			</div>
     </template>
-</div>
+	</core-list>
+<!--/div-->
   </template>
   <script>
     Polymer({
       ready: function() {
         //...
-      }
+      },
+	  selected: function(e){
+	  console.log(e.detail.data);
+	  this.album = e.detail.data;
+	  }
+	 
     });
   </script>
 </polymer-element>

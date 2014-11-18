@@ -4,7 +4,7 @@
     "title": "Born",
     "artist": "Bond",
     "_id": "$0$1$12$10001",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1029898.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -112,7 +112,7 @@
     "title": "Manquait plus qu'ça...",
     "artist": "Sandrine Kiberlain",
     "_id": "$0$1$12$10021",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1031434.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -199,7 +199,7 @@
     "title": "Carcassonne",
     "artist": "Stephan Eicher",
     "_id": "$0$1$12$10041",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1035274.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -305,7 +305,7 @@
     "title": "Toi du monde",
     "artist": "Maurane",
     "_id": "$0$1$12$10061",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1037322.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -443,7 +443,7 @@
     "title": "Quand l'humain danse",
     "artist": "Maurane",
     "_id": "$0$1$12$10074",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1043466.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -581,7 +581,7 @@
     "title": "Si Aujourd'hui",
     "artist": "Maurane",
     "_id": "$0$1$12$10087",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1046538.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -695,7 +695,7 @@
     "title": "L'un pour l'autre",
     "artist": "Maurane",
     "_id": "$0$1$12$10106",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1051658.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "19",
     "pistes": [
       {
@@ -857,7 +857,7 @@
     "title": "De Beaux Jours a Venir",
     "artist": "Da Silva",
     "_id": "$0$1$12$10126",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1054218.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -963,7 +963,7 @@
     "title": "Décembre en été",
     "artist": "Da Silva",
     "_id": "$0$1$12$10139",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1057802.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -1069,7 +1069,7 @@
     "title": "Le bonheur comptant",
     "artist": "Daniel Fernandez",
     "_id": "$0$1$12$10158",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1060106.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -1183,7 +1183,7 @@
     "title": "Recto Verso",
     "artist": "Zaz",
     "_id": "$0$1$12$10171",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1070858.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -1311,7 +1311,7 @@
     "title": "Mogador 94",
     "artist": "Starmania",
     "_id": "$0$1$12$10210",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1071370.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "21",
     "pistes": [
       {
@@ -1489,7 +1489,7 @@
     "title": "Les Dix Commandements",
     "artist": "Comedie Musicale",
     "_id": "$0$1$12$10235",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1076746.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -1611,7 +1611,7 @@
     "title": "Le Live",
     "artist": "Star Academy 1",
     "_id": "$0$1$12$10259",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1084682.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -1781,7 +1781,7 @@
     "title": "Pure Heroine",
     "artist": "Lorde",
     "_id": "$0$1$12$10280",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1086474.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "9",
     "pistes": [
       {
@@ -1863,7 +1863,7 @@
     "title": "Le secret",
     "artist": "Lara Fabian",
     "_id": "$0$1$12$10292",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1088778.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -2009,7 +2009,7 @@
     "title": "La Place du Fantôme",
     "artist": "La Grande Sophie",
     "_id": "$0$1$12$10315",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1092362.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -2099,7 +2099,7 @@
     "title": "Privateering",
     "artist": "Mark Knopfler",
     "_id": "$0$1$12$10335",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1095946.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -2269,7 +2269,7 @@
     "title": "Racine Carrée",
     "artist": "Stromae",
     "_id": "$0$1$12$10357",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1100298.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -2383,7 +2383,7 @@
     "title": "O Filles De L'eau",
     "artist": "Nolwenn Leroy",
     "_id": "$0$1$12$10377",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1106186.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -2497,7 +2497,7 @@
     "title": "Birdy",
     "artist": "Birdy",
     "_id": "$0$1$12$10398",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1109002.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -2595,7 +2595,7 @@
     "title": "O_Filles_De_Leau-FR",
     "artist": "[*]",
     "_id": "$0$1$12$10419",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1109258.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "1",
     "pistes": [
       {
@@ -2611,7 +2611,7 @@
     "title": "La_Place_Du_Fantome",
     "artist": "[*]",
     "_id": "$0$1$12$10428",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1109514.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "1",
     "pistes": [
       {
@@ -2627,7 +2627,7 @@
     "title": "3 Car Garage: The Indie Record",
     "artist": "Hanson",
     "_id": "$0$1$12$10814",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I429066.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -2725,7 +2725,7 @@
     "title": "Viva La Vida or Death and All",
     "artist": "Coldplay",
     "_id": "$0$1$12$10941",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I505610.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -2805,7 +2805,7 @@
     "title": "Supposed Former Infatuation Ju",
     "artist": "Alanis Morissette",
     "_id": "$0$1$12$11149",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I701450.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -2934,7 +2934,7 @@
     "title": "Lord of the Rings - The Fellowship of the Ring",
     "artist": "Howard Shore",
     "_id": "$0$1$12$1135",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I58378.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "18",
     "pistes": [
       {
@@ -3088,7 +3088,7 @@
     "title": "Lorde - Pure Heroine (Album)",
     "artist": "[*]",
     "_id": "$0$1$12$11400",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1087498.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "1",
     "pistes": [
       {
@@ -3104,7 +3104,7 @@
     "title": "The Faculty",
     "artist": "Class of '99",
     "_id": "$0$1$12$1154",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I61706.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -3218,7 +3218,7 @@
     "title": "Les Duos de Marc",
     "artist": "Marc Lavoine",
     "_id": "$0$1$12$121",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I8714.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -3340,7 +3340,7 @@
     "title": "Taxi",
     "artist": "Karl",
     "_id": "$0$1$12$1316",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I65290.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "19",
     "pistes": [
       {
@@ -3502,7 +3502,7 @@
     "title": "Flashdance",
     "artist": "Donna Summer",
     "_id": "$0$1$12$1491",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I70410.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -3592,7 +3592,7 @@
     "title": "Les Choristes",
     "artist": "Les Choristes",
     "_id": "$0$1$12$1627",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I72714.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "21",
     "pistes": [
       {
@@ -3770,7 +3770,7 @@
     "title": "Moulin Rouge",
     "artist": "Various",
     "_id": "$0$1$12$1646",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I77834.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "27",
     "pistes": [
       {
@@ -3996,7 +3996,7 @@
     "title": "Pulp Fiction",
     "artist": "The Centurians",
     "_id": "$0$1$12$1797",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I86794.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -4134,7 +4134,7 @@
     "title": "Treasure Planet",
     "artist": "James Newton Howard",
     "_id": "$0$1$12$1985",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I92682.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -4304,7 +4304,7 @@
     "title": "Romeo + Juliet",
     "artist": "Stina Nordenstam",
     "_id": "$0$1$12$2045",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I96778.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -4418,7 +4418,7 @@
     "title": "Lara Fabian",
     "artist": "Lara Fabian",
     "_id": "$0$1$12$2216",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I98826.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -4532,7 +4532,7 @@
     "title": "Pure",
     "artist": "Lara Fabian",
     "_id": "$0$1$12$2229",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I100874.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -4630,7 +4630,7 @@
     "title": "Nue",
     "artist": "Lara Fabian",
     "_id": "$0$1$12$2239",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I104202.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -4752,7 +4752,7 @@
     "title": "Carpe Diem",
     "artist": "Lara Fabian",
     "_id": "$0$1$12$2251",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I109578.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -4866,7 +4866,7 @@
     "title": "Hits",
     "artist": "Phil Collins",
     "_id": "$0$1$12$2270",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I112138.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -5004,7 +5004,7 @@
     "title": "Maxi CD - Un Monde à Refaire",
     "artist": "Un Monde à Refaire",
     "_id": "$0$1$12$2295",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I114442.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "2",
     "pistes": [
       {
@@ -5030,7 +5030,7 @@
     "title": "Travelling the Face of the Globe",
     "artist": "Oi Va Voi",
     "_id": "$0$1$12$2320",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I117258.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -5136,7 +5136,7 @@
     "title": "Le Clan Des Miros",
     "artist": "Renan Luce",
     "_id": "$0$1$12$2345",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I118794.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -5242,7 +5242,7 @@
     "title": "Repenti",
     "artist": "Renan Luce",
     "_id": "$0$1$12$2359",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I121610.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -5356,7 +5356,7 @@
     "title": "Emotion Classique",
     "artist": "Une petite musique de nuit Allegro",
     "_id": "$0$1$12$2383",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I128266.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -5494,7 +5494,7 @@
     "title": "CyberTrance 5",
     "artist": "The Age Of Love",
     "_id": "$0$1$12$2598",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I128522.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -5584,7 +5584,7 @@
     "title": "Amen! A Gospel Celebration",
     "artist": "Various Artists",
     "_id": "$0$1$12$2739",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I131850.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -5692,7 +5692,7 @@
     "title": "L'Ame Du Gospel, La Lumière Du Peuple Noir",
     "artist": "Various",
     "_id": "$0$1$12$2751",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I135946.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -5814,7 +5814,7 @@
     "title": "La légende de Jimmy",
     "artist": "Michel Berger & Luc Plamondon",
     "_id": "$0$1$12$2770",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I139274.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "22",
     "pistes": [
       {
@@ -6000,7 +6000,7 @@
     "title": "Dis moi que l'amour",
     "artist": "Marc LAVOINE",
     "_id": "$0$1$12$279",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I9738.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "2",
     "pistes": [
       {
@@ -6026,7 +6026,7 @@
     "title": "Nocturne - Music for Dreaming",
     "artist": "Mussorgsky",
     "_id": "$0$1$12$2794",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I145674.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -6116,7 +6116,7 @@
     "title": "Back to Titanic",
     "artist": "Maire Brennan",
     "_id": "$0$1$12$2930",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I146954.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -6230,7 +6230,7 @@
     "title": "un monde à l'envers",
     "artist": "bruno pelletier",
     "_id": "$0$1$12$302",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I11018.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -6352,7 +6352,7 @@
     "title": "La Pub Se La Joue Classique",
     "artist": "Tchakovski",
     "_id": "$0$1$12$3027",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I150282.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "28",
     "pistes": [
       {
@@ -6586,7 +6586,7 @@
     "title": "Mademoiselle",
     "artist": "Berry",
     "_id": "$0$1$12$329",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I15882.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -6684,7 +6684,7 @@
     "title": "Sound Of Silence",
     "artist": "Sergei Rachmaninoff",
     "_id": "$0$1$12$3311",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I158730.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -6806,7 +6806,7 @@
     "title": "La Nuit des Fées",
     "artist": "The Moon and the Nightspirit",
     "_id": "$0$1$12$3468",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I164362.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -6944,7 +6944,7 @@
     "title": "Les années Barclay",
     "artist": "Poppys",
     "_id": "$0$1$12$349",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I19466.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -7114,7 +7114,7 @@
     "title": "Die grten Momente der Klassik (Disc 3)",
     "artist": "Fritz Kreisler",
     "_id": "$0$1$12$3648",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I168714.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -7260,7 +7260,7 @@
     "title": "Call Off The Search",
     "artist": "Katie Melua",
     "_id": "$0$1$12$375",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I23562.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -7366,7 +7366,7 @@
     "title": "Top Des Tops",
     "artist": "Magic Affair",
     "_id": "$0$1$12$3846",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I171786.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -7536,7 +7536,7 @@
     "title": "Piece By Piece",
     "artist": "Katie Melua",
     "_id": "$0$1$12$398",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I25098.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -7642,7 +7642,7 @@
     "title": "Spirit Of Ireland",
     "artist": "John Hawkins",
     "_id": "$0$1$12$4112",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I176906.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -7812,7 +7812,7 @@
     "title": "Pictures",
     "artist": "Katie Melua",
     "_id": "$0$1$12$415",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I28682.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -7918,7 +7918,7 @@
     "title": "Libellule",
     "artist": "Marina Vénache",
     "_id": "$0$1$12$4227",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I179210.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -8024,7 +8024,7 @@
     "title": "Inventaire",
     "artist": "Christophe Willem",
     "_id": "$0$1$12$4240",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I184330.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -8154,7 +8154,7 @@
     "title": "Le Sacre Des Lemmings Et Autre Contes De La Lisière",
     "artist": "Tété",
     "_id": "$0$1$12$4260",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I188938.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -8284,7 +8284,7 @@
     "title": "A la faveur de l'automne",
     "artist": "Tété",
     "_id": "$0$1$12$4276",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I190218.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -8430,7 +8430,7 @@
     "title": "Enfantillages",
     "artist": "Aldebert",
     "_id": "$0$1$12$4348",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I197898.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -8568,7 +8568,7 @@
     "title": "L'année du singe",
     "artist": "Aldebert",
     "_id": "$0$1$12$4361",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I198922.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -8674,7 +8674,7 @@
     "title": "Allo le Monde",
     "artist": "Pauline",
     "_id": "$0$1$12$4380",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I203274.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -8780,7 +8780,7 @@
     "title": "Yael Naim",
     "artist": "Yael Naim",
     "_id": "$0$1$12$4401",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I206858.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -8894,7 +8894,7 @@
     "title": "Au Sourire De L'Âme",
     "artist": "Pep's",
     "_id": "$0$1$12$4421",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I209418.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -9008,7 +9008,7 @@
     "title": "Samra",
     "artist": "Faudel",
     "_id": "$0$1$12$444",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I31498.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -9122,7 +9122,7 @@
     "title": "Best of Vanessa Paradis",
     "artist": "Vanessa Paradis",
     "_id": "$0$1$12$4442",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I213002.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -9292,7 +9292,7 @@
     "title": "Une Nuit A Versailles",
     "artist": "Vanessa Paradis",
     "_id": "$0$1$12$4465",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I216842.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -9462,7 +9462,7 @@
     "title": "Comme je suis 1992-2004",
     "artist": "Sinclair",
     "_id": "$0$1$12$4541",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I221450.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "23",
     "pistes": [
       {
@@ -9656,7 +9656,7 @@
     "title": "La Voix d'Un Ange",
     "artist": "Grégory Lemarchal",
     "_id": "$0$1$12$4574",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I227850.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -9754,7 +9754,7 @@
     "title": "Je deviens moi",
     "artist": "Grégory Lemarchal",
     "_id": "$0$1$12$4595",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I231946.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -9868,7 +9868,7 @@
     "title": "Under The Radar",
     "artist": "Daniel Powter",
     "_id": "$0$1$12$4614",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I236042.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -9966,7 +9966,7 @@
     "title": "Where we belong",
     "artist": "Boyzone",
     "_id": "$0$1$12$4634",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I239114.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -10104,7 +10104,7 @@
     "title": "Chansons Pour Les Pieds",
     "artist": "Jean-Jacques Goldman",
     "_id": "$0$1$12$4654",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I241418.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -10210,7 +10210,7 @@
     "title": "Je sais que la terre est plate",
     "artist": "Raphael",
     "_id": "$0$1$12$4674",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I243722.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -10308,7 +10308,7 @@
     "title": "La femme chocolat",
     "artist": "Olivia Ruiz",
     "_id": "$0$1$12$4699",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I247818.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -10422,7 +10422,7 @@
     "title": "Baida",
     "artist": "Faudel",
     "_id": "$0$1$12$471",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I35082.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -10536,7 +10536,7 @@
     "title": "The Best of 1980-1990",
     "artist": "U2",
     "_id": "$0$1$12$4719",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I251402.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -10658,7 +10658,7 @@
     "title": "Mi Sangre",
     "artist": "Juanes",
     "_id": "$0$1$12$4744",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I254474.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -10752,7 +10752,7 @@
     "title": "Un Paradis Un Enfer",
     "artist": "David Hallyday",
     "_id": "$0$1$12$4757",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I262154.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -10858,7 +10858,7 @@
     "title": "Hopes And Fears",
     "artist": "Keane",
     "_id": "$0$1$12$4782",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I265994.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -10956,7 +10956,7 @@
     "title": "Dis-Moi Que Tu M'aimes",
     "artist": "Chimène Badi",
     "_id": "$0$1$12$4802",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I268554.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -11071,7 +11071,7 @@
     "title": "Le miroir",
     "artist": "Chimène Badi",
     "_id": "$0$1$12$4820",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I273930.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -11201,7 +11201,7 @@
     "title": "Entre nous",
     "artist": "Chimène Badi",
     "_id": "$0$1$12$4832",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I275722.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -11291,7 +11291,7 @@
     "title": "Gospel & Soul",
     "artist": "Chimène Badi",
     "_id": "$0$1$12$4844",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I277770.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -11413,7 +11413,7 @@
     "title": "Les piqûres d’araignée",
     "artist": "Vincent Delerm",
     "_id": "$0$1$12$4863",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I284426.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -11527,7 +11527,7 @@
     "title": "Persévérance",
     "artist": "Lââm",
     "_id": "$0$1$12$4883",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I287754.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -11641,7 +11641,7 @@
     "title": "Ginger",
     "artist": "Gaëtan Roussel",
     "_id": "$0$1$12$4903",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I288778.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -11739,7 +11739,7 @@
     "title": "Patrick Fiori",
     "artist": "Patrick Fiori",
     "_id": "$0$1$12$4923",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I292362.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -11845,7 +11845,7 @@
     "title": "L' Instinct Masculin",
     "artist": "Patrick Fiori",
     "_id": "$0$1$12$4936",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I295434.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -11943,7 +11943,7 @@
     "title": "Prends-Moi",
     "artist": "Patrick Fiori",
     "_id": "$0$1$12$4953",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I296714.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -12041,7 +12041,7 @@
     "title": "Chrysalide",
     "artist": "Patrick Fiori",
     "_id": "$0$1$12$4965",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I302346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -12147,7 +12147,7 @@
     "title": "Les choses de la vie",
     "artist": "Patrick Fiori",
     "_id": "$0$1$12$4977",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I306186.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -12285,7 +12285,7 @@
     "title": "Si On Chantait Plus Fort",
     "artist": "Patrick Fiori",
     "_id": "$0$1$12$4997",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I307466.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -12407,7 +12407,7 @@
     "title": "Siempre 23",
     "artist": "Jonatan Cerrada",
     "_id": "$0$1$12$5021",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I313098.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -12513,7 +12513,7 @@
     "title": "La preuve du contraire",
     "artist": "Jonatan Cerrada",
     "_id": "$0$1$12$5037",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I316170.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "19",
     "pistes": [
       {
@@ -12675,7 +12675,7 @@
     "title": "Atlantis",
     "artist": "Eric Serra",
     "_id": "$0$1$12$506",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I38922.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -12781,7 +12781,7 @@
     "title": "MIDI 20",
     "artist": "Grand Corps Malade",
     "_id": "$0$1$12$5114",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I322058.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -12919,7 +12919,7 @@
     "title": "Enfant de la Ville",
     "artist": "Grand Corps Malade",
     "_id": "$0$1$12$5132",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I326154.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "18",
     "pistes": [
       {
@@ -13073,7 +13073,7 @@
     "title": "Vincero",
     "artist": "Amaury Vassily",
     "_id": "$0$1$12$5151",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I329738.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -13167,7 +13167,7 @@
     "title": "Barrio Caliente",
     "artist": "Gaël GARCIA",
     "_id": "$0$1$12$5171",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I332042.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -13265,7 +13265,7 @@
     "title": "Le miracle d'une voix",
     "artist": "Natalie Dessay",
     "_id": "$0$1$12$5196",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I333834.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "26",
     "pistes": [
       {
@@ -13483,7 +13483,7 @@
     "title": "Airs D'Opéras Italiens",
     "artist": "Evelino Pidò",
     "_id": "$0$1$12$5237",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I339978.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -13613,7 +13613,7 @@
     "title": "Menteur",
     "artist": "Cali",
     "_id": "$0$1$12$5257",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I345354.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -13719,7 +13719,7 @@
     "title": "L'amour parfait",
     "artist": "Cali",
     "_id": "$0$1$12$5270",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I346890.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -13833,7 +13833,7 @@
     "title": "Les Petits Mouchoirs",
     "artist": "Janis Joplin",
     "_id": "$0$1$12$528",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I43018.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -13934,7 +13934,7 @@
     "title": "L'espoir",
     "artist": "Cali",
     "_id": "$0$1$12$5280",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I350218.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -14056,7 +14056,7 @@
     "title": "Essaye",
     "artist": "Pierre Bachelet",
     "_id": "$0$1$12$5304",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I353290.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -14162,7 +14162,7 @@
     "title": "Mamagubida",
     "artist": "Tryö",
     "_id": "$0$1$12$5325",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I358410.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -14292,7 +14292,7 @@
     "title": "Ce que l'on sème",
     "artist": "Tryö",
     "_id": "$0$1$12$5344",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I363786.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -14407,7 +14407,7 @@
     "title": "Le Chemin",
     "artist": "Kyo",
     "_id": "$0$1$12$5363",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I364554.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -14505,7 +14505,7 @@
     "title": "Kyo",
     "artist": "Kyo",
     "_id": "$0$1$12$5374",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I367626.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -14603,7 +14603,7 @@
     "title": "The Promise",
     "artist": "Il Divo",
     "_id": "$0$1$12$5394",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I371466.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -14701,7 +14701,7 @@
     "title": "Il Divo",
     "artist": "Il Divo",
     "_id": "$0$1$12$5411",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I373770.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -14807,7 +14807,7 @@
     "title": "Ancora",
     "artist": "Il Divo",
     "_id": "$0$1$12$5422",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I377354.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -14905,7 +14905,7 @@
     "title": "Longtemps",
     "artist": "Louis Bertignac",
     "_id": "$0$1$12$5451",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I380938.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -15011,7 +15011,7 @@
     "title": "Awake",
     "artist": "Josh Groban",
     "_id": "$0$1$12$5471",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I383754.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -15125,7 +15125,7 @@
     "title": "A Collection",
     "artist": "Josh Groban",
     "_id": "$0$1$12$5484",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I386058.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "22",
     "pistes": [
       {
@@ -15311,7 +15311,7 @@
     "title": "Illuminations",
     "artist": "Josh Groban",
     "_id": "$0$1$12$5498",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I390410.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -15425,7 +15425,7 @@
     "title": "Josh Groban",
     "artist": "Josh Groban",
     "_id": "$0$1$12$5508",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I396042.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -15539,7 +15539,7 @@
     "title": "Noël",
     "artist": "Josh Groban",
     "_id": "$0$1$12$5525",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I398090.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -15640,7 +15640,7 @@
     "title": "Comment lui dire",
     "artist": "Gregori Baquet",
     "_id": "$0$1$12$5544",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I400394.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "2",
     "pistes": [
       {
@@ -15666,7 +15666,7 @@
     "title": "Le Roi Soleil",
     "artist": "Cathialine Andria",
     "_id": "$0$1$12$5564",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I401418.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "29",
     "pistes": [
       {
@@ -15908,7 +15908,7 @@
     "title": "Ali Baba",
     "artist": "F. Aboulker, T. Chatel, F. Doll, A. Lanty",
     "_id": "$0$1$12$5664",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I410122.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "23",
     "pistes": [
       {
@@ -16102,7 +16102,7 @@
     "title": "Da vinci",
     "artist": "Comedie musical",
     "_id": "$0$1$12$5683",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I419850.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -16224,7 +16224,7 @@
     "title": "Notre-Dame de Paris",
     "artist": "Divers",
     "_id": "$0$1$12$5707",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I424970.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -16362,7 +16362,7 @@
     "title": "Des visages des figures",
     "artist": "Noir Désir",
     "_id": "$0$1$12$5726",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I427018.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -16456,7 +16456,7 @@
     "title": "Scala on the Rocks - Live",
     "artist": "The Police",
     "_id": "$0$1$12$5766",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I433418.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -16586,7 +16586,7 @@
     "title": "1, 2, 3 Soleils",
     "artist": "Taha, Khaled, Fudel",
     "_id": "$0$1$12$5952",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I435978.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -16700,7 +16700,7 @@
     "title": "Quelqu'un m'a dit",
     "artist": "Carla Bruni",
     "_id": "$0$1$12$5972",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I440586.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -16806,7 +16806,7 @@
     "title": "Hobo",
     "artist": "Charlie Winston",
     "_id": "$0$1$12$5992",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I441866.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -16912,7 +16912,7 @@
     "title": "The meilleur of Renaud ... 1985-1995",
     "artist": "Renaud",
     "_id": "$0$1$12$6012",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I447242.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -17042,7 +17042,7 @@
     "title": "Aral",
     "artist": "Catherine Lara",
     "_id": "$0$1$12$6033",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I456202.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -17140,7 +17140,7 @@
     "title": "Mozart In Egypt 2",
     "artist": "Hughes de Courson",
     "_id": "$0$1$12$6055",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I459530.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -17270,7 +17270,7 @@
     "title": "Babel",
     "artist": "Hughes de Courson",
     "_id": "$0$1$12$6068",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I461322.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "28",
     "pistes": [
       {
@@ -17504,7 +17504,7 @@
     "title": "L'Amour Est Laid",
     "artist": "Guillaume Grand",
     "_id": "$0$1$12$6096",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I468234.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -17598,7 +17598,7 @@
     "title": "Au milieu des autres",
     "artist": "Calogero",
     "_id": "$0$1$12$6149",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I471562.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -17704,7 +17704,7 @@
     "title": "Calogero",
     "artist": "Calogero",
     "_id": "$0$1$12$6160",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I474378.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -17802,7 +17802,7 @@
     "title": "Pomme C",
     "artist": "Calogero",
     "_id": "$0$1$12$6172",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I476938.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -17900,7 +17900,7 @@
     "title": "L'Embellie",
     "artist": "Calogero",
     "_id": "$0$1$12$6182",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I481546.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -18006,7 +18006,7 @@
     "title": "calog3ro",
     "artist": "Calogero",
     "_id": "$0$1$12$6194",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I482826.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -18100,7 +18100,7 @@
     "title": "Comme Vous...",
     "artist": "Julie Zénatti",
     "_id": "$0$1$12$6213",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I486666.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -18222,7 +18222,7 @@
     "title": "Plus de Diva",
     "artist": "Julie Zénatti",
     "_id": "$0$1$12$6226",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I492042.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -18344,7 +18344,7 @@
     "title": "Fragile",
     "artist": "Julie Zénatti",
     "_id": "$0$1$12$6238",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I494602.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -18450,7 +18450,7 @@
     "title": "Boîte de Pandore",
     "artist": "Julie Zénatti",
     "_id": "$0$1$12$6251",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I497162.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -18596,7 +18596,7 @@
     "title": "Dans Les Yeux d'Un Autre",
     "artist": "Julie Zénatti",
     "_id": "$0$1$12$6268",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I500234.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -18718,7 +18718,7 @@
     "title": "Si Fragiles",
     "artist": "Jessica",
     "_id": "$0$1$12$6315",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I506378.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "2",
     "pistes": [
       {
@@ -18744,7 +18744,7 @@
     "title": "Juste comme ça",
     "artist": "Mickaël Miro",
     "_id": "$0$1$12$6340",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I509194.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -18842,7 +18842,7 @@
     "title": "Zoë Avril",
     "artist": "Zoë Avril",
     "_id": "$0$1$12$6360",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I511754.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -18948,7 +18948,7 @@
     "title": "Notre Epoque",
     "artist": "Tarmac",
     "_id": "$0$1$12$6380",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I514314.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -19070,7 +19070,7 @@
     "title": "Un Jour D'Été",
     "artist": "Amel Bent",
     "_id": "$0$1$12$6401",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I517642.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -19184,7 +19184,7 @@
     "title": "a 20 ans",
     "artist": "Amel Bent",
     "_id": "$0$1$12$6429",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I520202.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -19290,7 +19290,7 @@
     "title": "Hong Kong",
     "artist": "Jean-Michel Jarre",
     "_id": "$0$1$12$6453",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I524554.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -19460,7 +19460,7 @@
     "title": "Anastacia",
     "artist": "Anastacia",
     "_id": "$0$1$12$6475",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I528650.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -19554,7 +19554,7 @@
     "title": "Freak Of Nature",
     "artist": "Anastacia",
     "_id": "$0$1$12$6486",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I532490.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -19660,7 +19660,7 @@
     "title": "La marmaille nue",
     "artist": "Mano Solo",
     "_id": "$0$1$12$6505",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I535050.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -19790,7 +19790,7 @@
     "title": "Dehors",
     "artist": "Mano Solo",
     "_id": "$0$1$12$6523",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I538122.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -19904,7 +19904,7 @@
     "title": "Les années sombres",
     "artist": "Mano Solo",
     "_id": "$0$1$12$6533",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I544010.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -20033,7 +20033,7 @@
     "title": "Reine d'un jour",
     "artist": "Julie Reins",
     "_id": "$0$1$12$6552",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I545546.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -20139,7 +20139,7 @@
     "title": "La République des Meteors",
     "artist": "Indochine",
     "_id": "$0$1$12$6563",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I548874.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -20277,7 +20277,7 @@
     "title": "Paradize",
     "artist": "Indochine",
     "_id": "$0$1$12$6588",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I552970.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -20407,7 +20407,7 @@
     "title": "200 Km/h In The Wrong Lane",
     "artist": "t.A.T.u.",
     "_id": "$0$1$12$6608",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I558346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -20501,7 +20501,7 @@
     "title": "Les souvenirs sous ma frange",
     "artist": "Rose",
     "_id": "$0$1$12$6631",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I561674.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -20615,7 +20615,7 @@
     "title": "Laura Pausini",
     "artist": "Laura Pausini",
     "_id": "$0$1$12$6687",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I563210.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "8",
     "pistes": [
       {
@@ -20681,7 +20681,7 @@
     "title": "Blonde",
     "artist": "Coeur de Pirate",
     "_id": "$0$1$12$6712",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I567562.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -20787,7 +20787,7 @@
     "title": "Coeur de Pirate",
     "artist": "Coeur de Pirate",
     "_id": "$0$1$12$6726",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I568586.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -20893,7 +20893,7 @@
     "title": "Joyful",
     "artist": "Ayo",
     "_id": "$0$1$12$6750",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I572938.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -20987,7 +20987,7 @@
     "title": "Gravity at last",
     "artist": "Ayo",
     "_id": "$0$1$12$6761",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I576522.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -21101,7 +21101,7 @@
     "title": "Oral Fixation Vol. 2",
     "artist": "Shakira",
     "_id": "$0$1$12$6780",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I578314.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -21188,7 +21188,7 @@
     "title": "Laundry Service",
     "artist": "Shakira",
     "_id": "$0$1$12$6793",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I580362.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -21289,7 +21289,7 @@
     "title": "Nightbird",
     "artist": "Yanni",
     "_id": "$0$1$12$6812",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I583946.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "7",
     "pistes": [
       {
@@ -21355,7 +21355,7 @@
     "title": "Demain",
     "artist": "Gregory",
     "_id": "$0$1$12$6832",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I585226.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "2",
     "pistes": [
       {
@@ -21381,7 +21381,7 @@
     "title": "Back To Bedlam",
     "artist": "James Blunt",
     "_id": "$0$1$12$6852",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I588042.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -21461,7 +21461,7 @@
     "title": "Pour l'amour du Gospel",
     "artist": "John William and Maya",
     "_id": "$0$1$12$6872",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I590346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -21575,7 +21575,7 @@
     "title": "la dernière année",
     "artist": "Gérald de Palmas",
     "_id": "$0$1$12$6892",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I593930.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -21697,7 +21697,7 @@
     "title": "Ici et maintenant",
     "artist": "Daniel Levy",
     "_id": "$0$1$12$6912",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I596490.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -21803,7 +21803,7 @@
     "title": "Deb",
     "artist": "Souad Massi",
     "_id": "$0$1$12$6925",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I598282.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -21909,7 +21909,7 @@
     "title": "Soledad",
     "artist": "Pascal Obispo",
     "_id": "$0$1$12$6945",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I602890.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -22015,7 +22015,7 @@
     "title": "Les fleurs du bien",
     "artist": "Pascal Obispo",
     "_id": "$0$1$12$6958",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I607242.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "18",
     "pistes": [
       {
@@ -22169,7 +22169,7 @@
     "title": "Legend",
     "artist": "Toto",
     "_id": "$0$1$12$6984",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I610314.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -22299,7 +22299,7 @@
     "title": "Les voix de Daïa",
     "artist": "Les voix de Daïa",
     "_id": "$0$1$12$7009",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I617226.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "22",
     "pistes": [
       {
@@ -22485,7 +22485,7 @@
     "title": "The Beach",
     "artist": "Artistes Divers",
     "_id": "$0$1$12$7029",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I620554.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -22607,7 +22607,7 @@
     "title": "D'elles",
     "artist": "Céline Dion",
     "_id": "$0$1$12$7098",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I622346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -22721,7 +22721,7 @@
     "title": "The Rocky Story Rocky IV",
     "artist": "James Brown",
     "_id": "$0$1$12$716",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I45066.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "9",
     "pistes": [
       {
@@ -22803,7 +22803,7 @@
     "title": "Titanic  -  Music From The Motion Picture",
     "artist": "Céline Dion",
     "_id": "$0$1$12$7162",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I626698.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -22933,7 +22933,7 @@
     "title": "Ailleurs Land",
     "artist": "Florent Pagny",
     "_id": "$0$1$12$7245",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I630282.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -23031,7 +23031,7 @@
     "title": "2",
     "artist": "Florent Pagny",
     "_id": "$0$1$12$7263",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I633354.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -23146,7 +23146,7 @@
     "title": "Récréation",
     "artist": "Florent Pagny",
     "_id": "$0$1$12$7273",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I637962.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -23292,7 +23292,7 @@
     "title": "Abracadabra",
     "artist": "Florent Pagny",
     "_id": "$0$1$12$7286",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I641546.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -23390,7 +23390,7 @@
     "title": "Savoir Aimer",
     "artist": "Florent Pagny",
     "_id": "$0$1$12$7300",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I644106.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -23488,7 +23488,7 @@
     "title": "Petit papa noël",
     "artist": "Tino Rossi",
     "_id": "$0$1$12$7319",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I649482.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -23626,7 +23626,7 @@
     "title": "Les Marins d'Iroise",
     "artist": "Les Marins d'Iroise",
     "_id": "$0$1$12$7339",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I652554.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -23764,7 +23764,7 @@
     "title": "The Visit",
     "artist": "Loreena McKennitt",
     "_id": "$0$1$12$7360",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I654346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "9",
     "pistes": [
       {
@@ -23846,7 +23846,7 @@
     "title": "An Ancient Muse",
     "artist": "Loreena McKennitt",
     "_id": "$0$1$12$7378",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I656650.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "9",
     "pistes": [
       {
@@ -23919,7 +23919,7 @@
     "title": "The Mask and Mirror",
     "artist": "Loreena McKennitt",
     "_id": "$0$1$12$7388",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I659210.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "8",
     "pistes": [
       {
@@ -23985,7 +23985,7 @@
     "title": "Nights From the Alhambra",
     "artist": "Loreena McKennitt",
     "_id": "$0$1$12$7398",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I662282.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "18",
     "pistes": [
       {
@@ -24139,7 +24139,7 @@
     "title": "Volume 10",
     "artist": "Marc Lavoine",
     "_id": "$0$1$12$75",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I778.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -24237,7 +24237,7 @@
     "title": "Olympia 98",
     "artist": "Henri DES",
     "_id": "$0$1$12$7500",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I667914.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -24407,7 +24407,7 @@
     "title": "Talk On Corners",
     "artist": "The Corrs",
     "_id": "$0$1$12$7525",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I673802.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -24515,7 +24515,7 @@
     "title": "Forgiven, Not Forgotten",
     "artist": "The Corrs",
     "_id": "$0$1$12$7538",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I675594.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -24645,7 +24645,7 @@
     "title": "In Blue",
     "artist": "The Corrs",
     "_id": "$0$1$12$7555",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I681482.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -24775,7 +24775,7 @@
     "title": "Talk On Corners (Special Edition)",
     "artist": "The Corrs",
     "_id": "$0$1$12$7565",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I684554.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -24905,7 +24905,7 @@
     "title": "La Ou Je Pars",
     "artist": "Emmanuel Moire",
     "_id": "$0$1$12$7582",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I686346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -25019,7 +25019,7 @@
     "title": "Au ras des pâquerettes",
     "artist": "Alain Souchon",
     "_id": "$0$1$12$7598",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I689930.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -25109,7 +25109,7 @@
     "title": "Here's To The Heroes",
     "artist": "The Ten Tenors",
     "_id": "$0$1$12$7618",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I694282.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -25203,7 +25203,7 @@
     "title": "Synthétiseur 10",
     "artist": "Staink",
     "_id": "$0$1$12$7643",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I696586.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "18",
     "pistes": [
       {
@@ -25357,7 +25357,7 @@
     "title": "Je, tu, ils",
     "artist": "Zazie",
     "_id": "$0$1$12$7821",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I704266.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -25471,7 +25471,7 @@
     "title": "La Zizanie",
     "artist": "Zazie",
     "_id": "$0$1$12$7871",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I709386.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -25585,7 +25585,7 @@
     "title": "Françoise Hardy [Camden]",
     "artist": "Françoise Hardy",
     "_id": "$0$1$12$7927",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I712458.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -25675,7 +25675,7 @@
     "title": "So far away ...",
     "artist": "Comment t'appelles-tu ?",
     "_id": "$0$1$12$7951",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I715786.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "18",
     "pistes": [
       {
@@ -25829,7 +25829,7 @@
     "title": "Heroines",
     "artist": "Maidi Roth",
     "_id": "$0$1$12$801",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I46858.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -25943,7 +25943,7 @@
     "title": "Pow woW",
     "artist": "Pow Wow",
     "_id": "$0$1$12$8197",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I717578.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -26065,7 +26065,7 @@
     "title": "The Crow",
     "artist": "Rage Against the Machine",
     "_id": "$0$1$12$820",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I53002.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -26187,7 +26187,7 @@
     "title": "Hors-Saison",
     "artist": "Francis Cabrel",
     "_id": "$0$1$12$8217",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I722954.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -26281,7 +26281,7 @@
     "title": "Les beaux dégâts",
     "artist": "Francis Cabrel",
     "_id": "$0$1$12$8235",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I724234.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -26387,7 +26387,7 @@
     "title": "France",
     "artist": "France Gall",
     "_id": "$0$1$12$8254",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I728330.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -26501,7 +26501,7 @@
     "title": "The Lost Opera",
     "artist": "Kimera",
     "_id": "$0$1$12$8279",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I730634.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "4",
     "pistes": [
       {
@@ -26543,7 +26543,7 @@
     "title": "Le Meilleur De Noa",
     "artist": "Noa",
     "_id": "$0$1$12$8299",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I734986.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -26689,7 +26689,7 @@
     "title": "Et Si Le Monde...",
     "artist": "Sandrine Francois",
     "_id": "$0$1$12$8319",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I738314.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -26811,7 +26811,7 @@
     "title": "Soul",
     "artist": "Seal",
     "_id": "$0$1$12$8339",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I742154.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -26917,7 +26917,7 @@
     "title": "The Very Best Of",
     "artist": "Joan Baez",
     "_id": "$0$1$12$8359",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I743690.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "40",
     "pistes": [
       {
@@ -27247,7 +27247,7 @@
     "title": "I've Been Expecting You",
     "artist": "Robbie Williams",
     "_id": "$0$1$12$8381",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I754442.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -27353,7 +27353,7 @@
     "title": "La Promenade",
     "artist": "Vincent Bruley",
     "_id": "$0$1$12$8401",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I755722.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "6",
     "pistes": [
       {
@@ -27411,7 +27411,7 @@
     "title": "Ideal Standard",
     "artist": "Jean-Louis Aubert",
     "_id": "$0$1$12$8421",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I759050.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -27525,7 +27525,7 @@
     "title": "Life In Cartoon Motion",
     "artist": "Mika",
     "_id": "$0$1$12$8441",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I762634.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -27605,7 +27605,7 @@
     "title": "Le saut de l'ange",
     "artist": "Emma Daumas",
     "_id": "$0$1$12$8461",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I763146.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -27711,7 +27711,7 @@
     "title": "Zaz",
     "artist": "Zaz",
     "_id": "$0$1$12$8481",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I767498.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -27809,7 +27809,7 @@
     "title": "IRM",
     "artist": "Charlotte Gainsbourg",
     "_id": "$0$1$12$8502",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I772106.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -27931,7 +27931,7 @@
     "title": "Lennon Legend",
     "artist": "John Lennon",
     "_id": "$0$1$12$8525",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I774922.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -28101,7 +28101,7 @@
     "title": "Where The Oceans End",
     "artist": "Cocoon",
     "_id": "$0$1$12$8545",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I778762.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -28207,7 +28207,7 @@
     "title": "C'Etait Ici",
     "artist": "Yann Tiersen",
     "_id": "$0$1$12$8565",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I784394.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "29",
     "pistes": [
       {
@@ -28449,7 +28449,7 @@
     "title": "L' Absente",
     "artist": "Yann Tiersen",
     "_id": "$0$1$12$8585",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I789258.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -28555,7 +28555,7 @@
     "title": "Les Retrouvailles",
     "artist": "Yann Tiersen",
     "_id": "$0$1$12$8597",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I793866.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -28693,7 +28693,7 @@
     "title": "Mina Tannenbaum",
     "artist": "Peter Chase",
     "_id": "$0$1$12$8621",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I801546.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "33",
     "pistes": [
       {
@@ -28967,7 +28967,7 @@
     "title": "La Mécanique Du Coeur",
     "artist": "Dionysos",
     "_id": "$0$1$12$8641",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I807178.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "18",
     "pistes": [
       {
@@ -29121,7 +29121,7 @@
     "title": "Life For Rent",
     "artist": "Dido",
     "_id": "$0$1$12$8661",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I808714.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -29219,7 +29219,7 @@
     "title": "Faubourg 36",
     "artist": "Reihnardt Wagner",
     "_id": "$0$1$12$8681",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I813834.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "23",
     "pistes": [
       {
@@ -29413,7 +29413,7 @@
     "title": "Contre vents et marées...",
     "artist": "Chaplain",
     "_id": "$0$1$12$8701",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I819722.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -29543,7 +29543,7 @@
     "title": "In Deep",
     "artist": "Tina Arena",
     "_id": "$0$1$12$8724",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I824330.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -29665,7 +29665,7 @@
     "title": "Funhouse",
     "artist": "Pink",
     "_id": "$0$1$12$8783",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I825098.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -29779,7 +29779,7 @@
     "title": "I'm Not Dead",
     "artist": "Pink",
     "_id": "$0$1$12$8794",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I828682.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -29894,7 +29894,7 @@
     "title": "Roméo & Juliette (Paris Cast)",
     "artist": "Gerard Presgurvic",
     "_id": "$0$1$12$8813",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I834826.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -30040,7 +30040,7 @@
     "title": "Saisons",
     "artist": "Laurent Voulzy",
     "_id": "$0$1$12$8833",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I836874.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "30",
     "pistes": [
       {
@@ -30290,7 +30290,7 @@
     "title": "5",
     "artist": "Mes Souliers Sont Rouges",
     "_id": "$0$1$12$8855",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I846346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -30404,7 +30404,7 @@
     "title": "Une heure déjà",
     "artist": "Mes Souliers Sont Rouges",
     "_id": "$0$1$12$8868",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I849674.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -30518,7 +30518,7 @@
     "title": "En dehors des clous",
     "artist": "Mes Souliers Sont Rouges",
     "_id": "$0$1$12$8878",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I852490.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -30648,7 +30648,7 @@
     "title": "Master Serie Vol.2",
     "artist": "Daniel Balavoine",
     "_id": "$0$1$12$8897",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I854794.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -30794,7 +30794,7 @@
     "title": "Comme on a Dit",
     "artist": "Louise Attaque",
     "_id": "$0$1$12$8917",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I858634.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -30908,7 +30908,7 @@
     "title": "Louise Attaque",
     "artist": "Louise Attaque",
     "_id": "$0$1$12$8929",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I862730.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -31016,7 +31016,7 @@
     "title": "Mozart Arias",
     "artist": "Cosi fan tutte",
     "_id": "$0$1$12$8953",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I867594.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -31122,7 +31122,7 @@
     "title": "Paroles d'hommes (Rock'n'roll attitude)",
     "artist": "Johnny Hallyday",
     "_id": "$0$1$12$9004",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I868618.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -31220,7 +31220,7 @@
     "title": "Paroles d'hommes  (Gang)",
     "artist": "Johnny Hallyday",
     "_id": "$0$1$12$9017",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I873226.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -31300,7 +31300,7 @@
     "title": "Le Bout du Toit",
     "artist": "Têtes Raides",
     "_id": "$0$1$12$9036",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I876298.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -31429,7 +31429,7 @@
     "title": "Rameau - Le noël de l'oncle Sébastien",
     "artist": "Les Petits Chanteurs à la croix de bois",
     "_id": "$0$1$12$9056",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I880138.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -31599,7 +31599,7 @@
     "title": "Mille et une Nuits",
     "artist": "Said Mrad",
     "_id": "$0$1$12$9076",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I883978.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "3",
     "pistes": [
       {
@@ -31630,7 +31630,7 @@
     "title": "7200 Minutes",
     "artist": "Maloh",
     "_id": "$0$1$12$9097",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I885258.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -31728,7 +31728,7 @@
     "title": "Modern Favorites",
     "artist": "Fairuz",
     "_id": "$0$1$12$9118",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I889098.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -31834,7 +31834,7 @@
     "title": "La Legende Des Celtes",
     "artist": "Bruno Le Rouzic",
     "_id": "$0$1$12$9139",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I892426.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -31980,7 +31980,7 @@
     "title": "Paradoxes",
     "artist": "Thierry Amiel",
     "_id": "$0$1$12$9342",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I896010.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -32118,7 +32118,7 @@
     "title": "Heaven For Everyone",
     "artist": "Queen",
     "_id": "$0$1$12$9369",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I898826.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "2",
     "pistes": [
       {
@@ -32144,7 +32144,7 @@
     "title": "Les Triomphes De La Chanson Franaise Vol. 2",
     "artist": "Edith Piaf",
     "_id": "$0$1$12$9389",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I902922.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "22",
     "pistes": [
       {
@@ -32330,7 +32330,7 @@
     "title": "Eternelle",
     "artist": "Edith Piaf",
     "_id": "$0$1$12$9402",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I908554.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "43",
     "pistes": [
       {
@@ -32684,7 +32684,7 @@
     "title": "L' Ami",
     "artist": "Serge Lama",
     "_id": "$0$1$12$9423",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I918026.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -32830,7 +32830,7 @@
     "title": "Pluri elles",
     "artist": "Serge Lama",
     "_id": "$0$1$12$9436",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I921610.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -32936,7 +32936,7 @@
     "title": "Shania Twain",
     "artist": "Shania Twain",
     "_id": "$0$1$12$9460",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I924682.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "10",
     "pistes": [
       {
@@ -33026,7 +33026,7 @@
     "title": "Monkey business",
     "artist": "The Black Eyed Peas",
     "_id": "$0$1$12$9480",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I927242.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -33148,7 +33148,7 @@
     "title": "The E.N.D",
     "artist": "The Black Eyed Peas",
     "_id": "$0$1$12$9491",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I933386.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -33286,7 +33286,7 @@
     "title": "Marc Lavoine",
     "artist": "Marc Lavoine",
     "_id": "$0$1$12$95",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I5898.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -33392,7 +33392,7 @@
     "title": "Pokhara",
     "artist": "Yannick Noah",
     "_id": "$0$1$12$9511",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I934154.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -33506,7 +33506,7 @@
     "title": "Charango",
     "artist": "Yannick Noah",
     "_id": "$0$1$12$9532",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I937226.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "14",
     "pistes": [
       {
@@ -33628,7 +33628,7 @@
     "title": "Yannick Noah",
     "artist": "Yannick Noah",
     "_id": "$0$1$12$9543",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I943370.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -33734,7 +33734,7 @@
     "title": "Best of Benabar",
     "artist": "Bénabar",
     "_id": "$0$1$12$9566",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I948234.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "20",
     "pistes": [
       {
@@ -33904,7 +33904,7 @@
     "title": "Les risques du métier",
     "artist": "Bénabar",
     "_id": "$0$1$12$9579",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I949770.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -34010,7 +34010,7 @@
     "title": "Infréquentable",
     "artist": "Bénabar",
     "_id": "$0$1$12$9594",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I952842.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -34116,7 +34116,7 @@
     "title": "Banquise",
     "artist": "Cyril Paulus",
     "_id": "$0$1$12$9646",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I957962.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -34210,7 +34210,7 @@
     "title": "New Yorker: Hommage a Bob Dylan",
     "artist": "Hugues aufray",
     "_id": "$0$1$12$9666",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I960266.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -34324,7 +34324,7 @@
     "title": "Reviens",
     "artist": "Garou",
     "_id": "$0$1$12$9686",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I964618.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "17",
     "pistes": [
       {
@@ -34468,7 +34468,7 @@
     "title": "Pinocchio",
     "artist": "Disney",
     "_id": "$0$1$12$9714",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I969994.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "25",
     "pistes": [
       {
@@ -34678,7 +34678,7 @@
     "title": "Pocahontas",
     "artist": "Disney",
     "_id": "$0$1$12$9725",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I974346.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "29",
     "pistes": [
       {
@@ -34920,7 +34920,7 @@
     "title": "Oasis of Silence",
     "artist": "Jean-Paul Genré",
     "_id": "$0$1$12$9744",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I980746.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "5",
     "pistes": [
       {
@@ -34970,7 +34970,7 @@
     "title": "Irish & Celtic Collection",
     "artist": "King's River Irish Band",
     "_id": "$0$1$12$9764",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I982282.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -35108,7 +35108,7 @@
     "title": "Sentiments humains",
     "artist": "Pierre Lapointe",
     "_id": "$0$1$12$9784",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I985354.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -35214,7 +35214,7 @@
     "title": "We Sing. We Dance. We Steal Things.",
     "artist": "Jason Mraz",
     "_id": "$0$1$12$9809",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I988426.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -35320,7 +35320,7 @@
     "title": "The Platters",
     "artist": "The Platters",
     "_id": "$0$1$12$9829",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I992778.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -35458,7 +35458,7 @@
     "title": "Des pieds des mains",
     "artist": "Le Diabl' Dans La Fourche",
     "_id": "$0$1$12$9849",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I997130.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -35556,7 +35556,7 @@
     "title": "Les Lois de la Nature",
     "artist": "De Palmas",
     "_id": "$0$1$12$9862",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1000970.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -35662,7 +35662,7 @@
     "title": "Un Homme Sans Racines",
     "artist": "De Palmas",
     "_id": "$0$1$12$9875",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1003018.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "11",
     "pistes": [
       {
@@ -35760,7 +35760,7 @@
     "title": "La Marche de l'Empereur",
     "artist": "Emilie Simon",
     "_id": "$0$1$12$9894",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1006602.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "16",
     "pistes": [
       {
@@ -35898,7 +35898,7 @@
     "title": "Juste Avant",
     "artist": "Patrick Bruel",
     "_id": "$0$1$12$9914",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1009930.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -36004,7 +36004,7 @@
     "title": "Des Souvenirs Devant",
     "artist": "Patrick Bruel",
     "_id": "$0$1$12$9928",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1011722.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "12",
     "pistes": [
       {
@@ -36110,7 +36110,7 @@
     "title": "Entre-deux",
     "artist": "Patrick Bruel",
     "_id": "$0$1$12$9938",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1017098.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "24",
     "pistes": [
       {
@@ -36312,7 +36312,7 @@
     "title": "No Need To Argue",
     "artist": "The Cranberries",
     "_id": "$0$1$12$9964",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1022474.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "13",
     "pistes": [
       {
@@ -36426,7 +36426,7 @@
     "title": "Wake Up And Smell The Coffee",
     "artist": "The Cranberries",
     "_id": "$0$1$12$9977",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I1024522.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {
@@ -36556,7 +36556,7 @@
     "title": "Alive",
     "artist": "Maxim Nucci",
     "_id": "$0$1$12$999",
-    "albumArt": "http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I53258.jpg?scale=160x160",
+    "albumArt": "http://localhost:8080/album.webp",
     "nbTitre": "15",
     "pistes": [
       {

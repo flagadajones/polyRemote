@@ -1,11 +1,11 @@
 <!--script src="../deps/webcomponentsjs/webcomponents.js"></script-->
 
- <link rel="import" href="../deps/core-list/core-list.html">
+<link rel="import" href="../deps/core-list/core-list.html">
 
-<polymer-element name="album-detail" attributes="album">
+<polymer-element name="album-detail" attributes="album" layout vertical>
   <template>
     <style>
-    img.blur {
+ img.blur {
     width: 100%;
     /*  height: 100%;*/
     -webkit-filter: blur(3px);
@@ -13,6 +13,7 @@
     -o-filter: blur(3px);
     -ms-filter: blur(3px);
     filter: blur(3px);
+position:absolute;
 }
 #details {
     /*200pxpadding: 10px 10% 0;*/
@@ -20,8 +21,8 @@
     margin: auto;
     height: 100%;
     box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.6);
+    poosition:relative;
 }
-
 .mycard {
     height: 540px;
     border-radius: 3px;
@@ -36,101 +37,70 @@
     float: left;
     background-size: 100%;
 }
-.card-right {
-    float: left;
-    padding: 0px;
-    width: 540px;
-}
-.card-title {
-    height: 137px;
-    background: #0ff;
-    position: relative;
-}
-.card-info {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-}
+
 .card-album-title {
     font-size: 2em;
 }
 .card-album-artist,
 .card-album-title {
-    width: 100%;
+  display:block;
     text-align: center;
+color:black;
 }
-.card-buttons {
-    height: 62px;
-    background: #f000ff;
-    width: 100%;
-    float: left;
-}
-.card-player-button {
-    width: 32%;
-    height: 100%
+.card-player-button{
+  height:63px;
+
 }
     </style>
-    <img  ng-src="{{album.albumArt}}" class="blur">
-        <section id="details" class="details" >
-            <div class="mycard " layout horizontal>
-                <div class="card-left " ng-click="transition() " style="background-image: url({{album.albumArt}});background-size: 100%;float:left; ">
+<core-list id="list3" data="{{liste}}" height="80" flex style="height:250px" >
+  <template>
+    <div >
+        <span >{{index}}</span>
+        </div>
+  </template>
+</core-list>
+<!--img  src="{{album.albumArt}}" class="blur"-->
+ <section id="details" class="details" >
+
+    <div class="mycard " layout vertical>
+  <div layout horizontal>
+                <div class="card-left " ng-click="transition() " style="background-image: url({{album.albumArt}});background-size: 100%; ">
 
                 </div>
-
-                <div class="card-right " style="float:left;" ng-style="{'border-bottom':'1px double {{color}}'}">
-                    <div class="card-title" ng-style="{'background-color':'{{color}}'}">
-                        <div class="card-info" ng-style="{'color':'{{textColor}}'}">
-                            <div class="card-album-title ">{{album.title}}</div>
-                            <div class="card-album-artist ">{{album.artist}}</div>
+ <div  flex auto-horizontal layout vertical style="height:200px">
+                        <div layout vertical flex>
+                            <div flex auto  class="card-album-title ">{{album.title}}</div>
+                            <div flex  auto class="card-album-artist ">{{album.artist}}</div>
                         </div>
-                    </div>
-                    <div class="card-buttons" style="float:left;" ng-style="{'background-color':'{{deeperColor}}'}">
-                        <a ng-style="{'color':'{{textColor}}'}" class="card-player-button button button-icon icon ion-ios7-rewind"></a>
-                        <a ng-style="{'color':'{{textColor}}'}" class="card-player-button button button-icon icon ion-ios7-pause"></a>
-                        <a ng-style="{'color':'{{textColor}}'}" class="card-player-button button button-icon icon ion-ios7-fastforward"></a>
+                    <div layout horizontal >
+                        <a  flex class="card-player-button button button-icon icon ion-ios7-rewind"></a>
+                        <a flex  class="card-player-button button button-icon icon ion-ios7-pause"></a>
+                        <a flex class="card-player-button button button-icon icon ion-ios7-fastforward"></a>
                     </div>
                 </div>
-                <!--ion-list>
-                        <ion-item class="card-pistes " ng-repeat="piste in pistes">
+</div>
 
-                            <div style="height:48px;">
-                                <span style="float:left;height:100%">{{piste.originalTrackNumber}}</span><span style="float:right;height:100%">{{piste.res[0].duration}}</span><span style="margin:0 auto;height:100%;width:100%">{{piste.title}}</span>
 
-                            </div>
-                        </ion-item>
-                    </ion-list-->
-              <core-list id="list" data="{{liste}}" height="48" style="height:250px;width:100%" >
-               <template>
-                  <div class="card-pistes" style="padding-top:0px;padding-bottom:0px;" >
-                          <span style="float:left;height:100%">{{model.originalTrackNumber}}</span><span style="float:right;height:100%">{{model.duration}}</span><span style="margin:0 auto;height:100%;width:100%">{{model.title}}</span>
+        <core-list id="list3" data="{{liste}}" height="48" flex >
+          <template>
+             <div layout horizontal  style="height:48px;color:black" center>
+                          <div >{{model.originalTrackNumber}}</div><div flex auto>{{model.title}}</div><div>{{model.duration}}</div>
                   </div>
-                </template>
-              </core-list>
+          </template>
+        </core-list>
 
-            </div>
-
+</div>
         </section>
-<!--/div-->
+
   </template>
   <script>
     Polymer({
-liste:[],
-       created: function() {  console.log(this.album); },
-  ready: function() {   console.log(this.album); },
-  attached: function () {   console.log(this.album); },
-  domReady: function() {   console.log(this.album); },
-  detached: function() {   console.log(this.album); },
-
-  albumChanged: function(old, newVal) {
-    this.album=newVal;
-
-    this.liste=this.album.pistes;
-    //var newVal = this.getAttribute(attrName);
-    console.log( 'old: ' , old, 'new:', newVal);
-  }
-
+      liste:[{"originalTrackNumber":"1","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Sortis du bois","artist":"Mes Souliers Sont Rouges","duration":"0:04:04","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846346.mp3","_id":"$0$1$12$8855R846346"},{"originalTrackNumber":"2","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Manivelle","artist":"Mes Souliers Sont Rouges","duration":"0:04:11","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844554.mp3","_id":"$0$1$12$8855R844554"},{"originalTrackNumber":"3","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Loin","artist":"Mes Souliers Sont Rouges","duration":"0:04:20","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846090.mp3","_id":"$0$1$12$8855R846090"},{"originalTrackNumber":"4","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Monsieur Fernand","artist":"Mes Souliers Sont Rouges","duration":"0:04:26","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845834.mp3","_id":"$0$1$12$8855R845834"},{"originalTrackNumber":"5","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Mon amant","artist":"Mes Souliers Sont Rouges","duration":"0:03:36","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846858.mp3","_id":"$0$1$12$8855R846858"},{"originalTrackNumber":"6","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Ailleurs","artist":"Mes Souliers Sont Rouges","duration":"0:04:08","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845322.mp3","_id":"$0$1$12$8855R845322"},{"originalTrackNumber":"7","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Isabelle","artist":"Mes Souliers Sont Rouges","duration":"0:02:22","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I843786.mp3","_id":"$0$1$12$8855R843786"},{"originalTrackNumber":"8","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Petite Galiote","artist":"Mes Souliers Sont Rouges","duration":"0:03:54","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844810.mp3","_id":"$0$1$12$8855R844810"},{"originalTrackNumber":"9","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Printemps","artist":"Mes Souliers Sont Rouges","duration":"0:05:15","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846602.mp3","_id":"$0$1$12$8855R846602"},{"originalTrackNumber":"10","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Eau trouble","artist":"Mes Souliers Sont Rouges","duration":"0:05:09","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844298.mp3","_id":"$0$1$12$8855R844298"},{"originalTrackNumber":"11","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Epouse-moi","artist":"Mes Souliers Sont Rouges","duration":"0:04:04","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844042.mp3","_id":"$0$1$12$8855R844042"},{"originalTrackNumber":"12","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Trois quarts de lune","artist":"Mes Souliers Sont Rouges","duration":"0:02:45","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845578.mp3","_id":"$0$1$12$8855R845578"},{"originalTrackNumber":"13","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Le cycle du vin","artist":"Mes Souliers Sont Rouges","duration":"0:03:37","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845066.mp3","_id":"$0$1$12$8855R845066"}],
+albumChanged:function(o,n){
+  console.log(n.pistes);
+  //this.liste.push(n.pistes);
+  //this.$.list3.initialize();
+}
     });
   </script>
 </polymer-element>

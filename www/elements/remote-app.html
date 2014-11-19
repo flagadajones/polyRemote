@@ -65,15 +65,22 @@
       <div drawer></div>
 
       <div main>
+
+    <!--album-detail  album="{{selectedAlbum}}" flex/-->
+
         <button core-drawer-toggle>toggle drawer</button>
-        <core-animated-pages id="pages" flex selected="{{selected}}" on-core-animated-pages-transition-end="{{transitionend}}" transitions="cross-fade-all hero-transition">
+        <core-animated-pages id="pages" flex selected="player" layout transitions="cross-fade-all hero-transition">
 		  <section id="albums"  name="albums">
 		  <albums-grid   class="album-grid" album="{{selectedAlbum}}" />
 		  </section>
 		  <section id="player" name="player" >
-		  <album-detail class="album-grid" album="{{selectedAlbum}}" />
+		  <album-detail  album="{{selectedAlbum}}" flex/>
 		  </section>
+      <section id="p" name="player" >
+      </section>
+
         </core-animated-pages>
+
       </div>
 
     </core-drawer-panel>

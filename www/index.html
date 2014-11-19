@@ -1,3 +1,4 @@
+
 <!doctype html>
 <!--
 Copyright (c) 2014 The Polymer Project Authors. All rights reserved.
@@ -8,43 +9,59 @@ Code distributed by Google as part of the polymer project is also
 subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
 -->
 <html>
-
 <head>
-  <title>telecommande</title>
-
+  <title>core-list</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+  <script src="./deps/webcomponentsjs/webcomponents.js"></script>
+  <link rel="import" href="./deps/core-list/core-list.html">
+  <link rel="import" href="./elements/album-detail.html">
 
-    <script src="./deps/webcomponentsjs/webcomponents.js"></script>
+  <style>
 
-    <link rel="import" href="./elements/remote-app.html">
+    list-test {
+      display: block;
+      height: 100%;
+      margin: 0 auto;
+    }
 
+  </style>
+</head>
+<body fit>
 
+<list-test></list-test>
+<polymer-element name="list-test" layout vertical>
+<template>
+  <style>
 
-    <style>
+  </style>
 
-      html, body {
-      //  height: 100%;
-      }
+  <core-list id="list" data="{{data}}" height="80" flex >
+    <template>
+      <div >
+          <span >{{index}}</span>
+          </div>
+    </template>
+  </core-list>
 
-      body {
-        font-family: sans-serif;
-        color: #FFF;
-        margin: 0;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-        -webkit-tap-highlight-color: rgba(0,0,0,0);
-      }
+    <core-list id="list3" data="{{data}}" height="80" flex >
+      <template>
+        <div >
+            <span >{{index}}</span>
+            </div>
+      </template>
+    </core-list>
+<album-detail album="{{albu}}" flex/>
 
+</template>
+<script>
 
-    </style>
+  Polymer('list-test', {
+  data:[{name:"kkkl"}],
+//  albu:{pistes:[{title:"klkl"}] ,albumArt:"http://localhost:8080/album.webp" }});
+albu:{"server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"5","artist":"Mes Souliers Sont Rouges","_id":"$0$1$12$8855","albumArt":"http://192.168.0.23:4242/disk/DLNA-PNJPEG_TN-OP01-CI1-FLAGS00f00000/defaultalbumart/a_u_d_i_o.jpg/O0$1$8I846346.jpg?scale=160x160","nbTitre":"13","pistes":[{"originalTrackNumber":"1","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Sortis du bois","artist":"Mes Souliers Sont Rouges","duration":"0:04:04","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846346.mp3","_id":"$0$1$12$8855R846346"},{"originalTrackNumber":"2","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Manivelle","artist":"Mes Souliers Sont Rouges","duration":"0:04:11","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844554.mp3","_id":"$0$1$12$8855R844554"},{"originalTrackNumber":"3","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Loin","artist":"Mes Souliers Sont Rouges","duration":"0:04:20","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846090.mp3","_id":"$0$1$12$8855R846090"},{"originalTrackNumber":"4","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Monsieur Fernand","artist":"Mes Souliers Sont Rouges","duration":"0:04:26","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845834.mp3","_id":"$0$1$12$8855R845834"},{"originalTrackNumber":"5","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Mon amant","artist":"Mes Souliers Sont Rouges","duration":"0:03:36","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846858.mp3","_id":"$0$1$12$8855R846858"},{"originalTrackNumber":"6","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Ailleurs","artist":"Mes Souliers Sont Rouges","duration":"0:04:08","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845322.mp3","_id":"$0$1$12$8855R845322"},{"originalTrackNumber":"7","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Isabelle","artist":"Mes Souliers Sont Rouges","duration":"0:02:22","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I843786.mp3","_id":"$0$1$12$8855R843786"},{"originalTrackNumber":"8","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Petite Galiote","artist":"Mes Souliers Sont Rouges","duration":"0:03:54","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844810.mp3","_id":"$0$1$12$8855R844810"},{"originalTrackNumber":"9","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Printemps","artist":"Mes Souliers Sont Rouges","duration":"0:05:15","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I846602.mp3","_id":"$0$1$12$8855R846602"},{"originalTrackNumber":"10","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Eau trouble","artist":"Mes Souliers Sont Rouges","duration":"0:05:09","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844298.mp3","_id":"$0$1$12$8855R844298"},{"originalTrackNumber":"11","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Epouse-moi","artist":"Mes Souliers Sont Rouges","duration":"0:04:04","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I844042.mp3","_id":"$0$1$12$8855R844042"},{"originalTrackNumber":"12","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Trois quarts de lune","artist":"Mes Souliers Sont Rouges","duration":"0:02:45","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845578.mp3","_id":"$0$1$12$8855R845578"},{"originalTrackNumber":"13","server":"55076f6e-6b79-4d65-6471-b8a386975678","title":"Le cycle du vin","artist":"Mes Souliers Sont Rouges","duration":"0:03:37","url":"http://192.168.0.32:9000/disk/DLNA-PNMP3-OP01-FLAGS01700000/O0$1$8I845066.mp3","_id":"$0$1$12$8855R845066"}]}
+});
+</script>
+</polymer-element>
 
-  </head>
-
-  <body unresolved>
-    <remote-app/>
-  </body>
+</body>
 </html>

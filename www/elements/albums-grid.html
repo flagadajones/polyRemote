@@ -43,7 +43,7 @@ width: 126px;
         padding: 8px;
 		width: 126px;
         height: 43px;
-    
+
       }
 
       .chip-album-title {
@@ -58,7 +58,7 @@ text-decoration: none;
 position: relative;
 white-space: nowrap;
 margin-right:15px;
-		
+
       }
 	  .chip-artist {
 color: #aaa;
@@ -71,12 +71,12 @@ overflow: hidden;
 white-space: nowrap;
 margin-right:15px;
 }
-	  
+
 	  	   #list {
       display: block;
       height: 100%;
       margin: 0 auto;
-	 
+
     }
 
 	.paragraph-end {
@@ -92,11 +92,11 @@ right: 0;
 width: 60px;
 }
     </style>
-    <core-ajax auto url="http://localhost:8080/albums.json" handleAs="json" response="{{albums}}" on-core-response="{{handleResponse}}"></core-ajax>
+    <core-ajax auto url="http://localhost:4242/albums" handleAs="json" response="{{albums}}" on-core-response="{{handleResponse}}"></core-ajax>
    <!--div id="container" flex horizontal wrap around-justified layout hero-p-->
- 
+
  <core-list id="list" data="{{albums}}" grid width="136" on-core-activate="{{selected}}"
-		height="210" 
+		height="210"
     >
 
     <template >
@@ -122,7 +122,7 @@ width: 60px;
 	  console.log(e.detail.data);
 	  this.album = e.detail.data;
 	  }
-	 
+
     });
   </script>
 </polymer-element>

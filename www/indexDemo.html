@@ -1,0 +1,170 @@
+<!doctype html>
+<html>
+  
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <script src="./deps/webcomponentsjs/webcomponents.js">
+  </script>
+  
+  <link href="./deps/core-drawer-panel/core-drawer-panel.html" rel="import">
+  <link href="./deps/core-icons/core-icons.html" rel="import">
+  <link href="./deps/core-icon-button/core-icon-button.html" rel="import">
+  <link href="./deps/core-animated-pages/core-animated-pages.html" rel="import">
+  <link href="./deps/core-toolbar/core-toolbar.html" rel="import">
+  <link href="./deps/core-list/core-list.html" rel="import" >
+  
+  <style>
+   html, body {
+      margin: 0;
+      -webkit-tap-highlight-color: transparent;
+      overflow: hidden;
+    }
+	  remote-app{ 
+      display: block;
+      height: 100%;
+      margin: 0 auto;
+    }
+
+  </style>
+  </head>
+  <body fit>
+    <remote-app ></remote-app>
+
+
+<polymer-element name="album-detail" attributes="album" layout vertical>
+  <template>
+    <style>
+      #details {
+        width: 740px;
+        margin: auto;
+        height: 100%;
+        box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.6);
+        poosition:relative;
+      }
+      .mycard {
+        height: 540px;
+        border-radius: 3px;
+        text-align: start;
+        overflow: hidden;
+        background: #fff;
+        box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      }
+      .card-left {
+        width: 200px;
+        height: 200px;
+        background-color:blue;
+      }
+      
+      .btn{
+        background-color:red;
+        height:63px;
+      }
+      .title{
+        background-color:yellow;
+        color:black;
+      }
+      .info{
+        height:200px
+      }
+      .item{
+        height:48px;
+        color:black;
+        background-color:grey;
+      }
+    </style>
+    <section id="details" class="details" >
+      
+      <div class="mycard " layout vertical>
+        <div layout horizontal>
+          <div class="card-left" ></div>
+          <div  flex auto-horizontal layout vertical class="info">
+            <div layout vertical flex class="title">
+              <div flex auto>title</div>
+              <div flex  auto>title2</div>
+            </div>
+            <div layout horizontal >
+              <a  flex class="btn">aaa</a>
+              <a flex  class="btn">bbb</a>
+              <a flex class="btn">ccc</a>
+            </div>
+          </div>
+        </div>
+        <core-list id="list3" data="{{album.pistes}}" height="48" flex>
+          <template>
+            <div layout horizontal  class="item" center>
+              <div>{{index}} toto {{model.name}}</div>
+            </div>
+          </template>
+        </core-list>
+      </div>
+    </section>
+    
+  </template>
+  <script>
+    Polymer({
+      
+    });
+  </script>
+</polymer-element>
+
+
+<polymer-element name="remote-app" layout vertical>
+  
+  <template>
+    <style>
+	 
+      [drawer] {
+        background-color: #B99588;
+        border-right: 1px solid #ccc;
+      }
+      [main] {
+        background-color: #4F7DC9;
+		height:100%;
+      }
+	  :host {
+		display: block;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		overflow: hidden;
+      }
+      
+      .album-grid {
+        display: block;
+        height: 100%;
+        width: 100%;
+        margin: 0 auto;
+      }
+      #pages {
+        display: block;
+        height: 100%;
+        margin: 0 auto;
+      }
+	   .item{
+        height:48px;
+        color:black;
+        background-color:grey;
+      }
+    </style>
+    <core-drawer-panel>
+      <div drawer>
+      </div>
+      <div main>
+        <!--album-detail album="{{ele}}" flex/-->
+        <core-animated-pages id="pages" selected="0" >
+            <album-detail  album="{{ele}}" />
+        </core-animated-pages>
+      </div>
+    </core-drawer-panel>
+  </template>
+  <script>
+    Polymer({
+	ele:{pistes:[{name:"1"},{name:"2"},{name:"3"},{name:"4"}]}
+    }
+           );
+  </script>
+</polymer-element>
+  </body>
+</html>

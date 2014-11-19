@@ -92,17 +92,17 @@ right: 0;
 width: 60px;
 }
     </style>
-    <core-ajax auto url="http://localhost:4242/albums" handleAs="json" response="{{albums}}" on-core-response="{{handleResponse}}"></core-ajax>
+    <core-ajax auto url="http://localhost:8080/albums.json" handleAs="json" response="{{albums}}" on-core-response="{{handleResponse}}"></core-ajax>
    <!--div id="container" flex horizontal wrap around-justified layout hero-p-->
 
- <core-list id="list" data="{{albums}}" grid width="136" on-core-activate="{{selected}}"
+ <core-list id="list" data="{{albums}}" grid width="136" on-core-activate="{{selected}}" hero-p
 		height="210"
     >
 
     <template >
-         <div class="square-cover" >
-		 <div class="card chip" hero-id="{{model.artist}}-{{model.album}}" hero?="{{selectedAlbum === model }}">
-              <div class="chip-top" style="background-image:url({{model.albumArt}})" hero-id="{{model.artist}}-{{model.album}}-art" hero?="{{selectedAlbum === model}}"></div>
+         <div class="square-cover"   >
+		 <div class="card chip"  >
+              <div class="chip-top"  style="background-image:url({{model.albumArt}})" hero-id="album-{{model._id}}" hero?="{{model === album }}"></div>
               <div class="chip-bottom">
                 <div class="chip-album-title">{{model.title}}<span class="paragraph-end"></span></div>
                 <div class="chip-artist">{{model.artist}}<span class="paragraph-end"></div>
